@@ -26,7 +26,7 @@ The project includes the following stages of analysis:
 
 ## Dashboard
 
-The dashboard includes two pages. The first page presents a summary of doctors' information, while the second page provides patients' information. The background design was created using Power Point, and filters and buttons were incorporated to facilitate navigation between the pages.
+The dashboard includes two pages. The first page presents a summary of doctors' information, while the second page provides patients' information. The background design was created using Power Point, and filters and buttons were incorporated to facilitate navigation between the pages. 
 
 ## Conclusion and Future Steps
 
